@@ -1,4 +1,4 @@
-const NavBar = () => {
+const Footer = () => {
     return (
         <footer className="footer mt-auto py-3 bg-dark">
             <div className="container">
@@ -10,4 +10,4 @@ const NavBar = () => {
     );
 }
 
-export default NavBar;
+export default Footer;
