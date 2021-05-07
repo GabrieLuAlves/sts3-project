@@ -64,12 +64,12 @@ public class Sale {
 		this.deals = deals;
 	}
 
-	public Double getAmmount() {
+	public Double getAmount() {
 		return amount;
 	}
 
-	public void setAmmount(Double ammount) {
-		this.amount = ammount;
+	public void setAmount(Double amount) {
+		this.amount = amount;
 	}
 
 	public LocalDate getDate() {
